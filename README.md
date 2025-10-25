@@ -63,7 +63,7 @@
 ### 2. 配置函数基本信息
 
 - **Function Name**: 输入函数名称,例如 `proxy-service`
-- **Runtime**: 选择 `Node.js 18.0` 或更高版本
+- **Runtime**: 选择 `导入GitHub库'
 - 点击 **Next** 继续
 
 ### 3. 选择部署方式 - GitHub 导入
